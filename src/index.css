@@ -1,0 +1,18 @@
+/* tailwind css add */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* navbar */
+.navbar li a:hover,
+.navbar li a.active
+{
+  color: #ffbe00;
+}
+
+
+/* banner */
+.carousel .thumbs{
+  text-align: center;
+}
